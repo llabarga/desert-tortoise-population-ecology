@@ -10,4 +10,6 @@ The projections made in the script are based on 3 main threats:
 - Predation by ravens
 - Upper respiratory tract disease
 
+
+### Acknowledgments
 This was a project made with my classmates: Victoria Hernandez, Catalina Font de Mora and Andrea Fernandez <3
